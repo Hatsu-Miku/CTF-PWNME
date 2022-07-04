@@ -1,7 +1,7 @@
 # CTF-PWNME
 ## On My Way 1/3
 
-Le but de cette première partie du challenge est de determiner le plus court chemin entre l'entrée (E) et la sortie (S) dans un graphe en 3D
+Le but de cette première partie du challenge est de determiner la distance du plus court chemin entre l'entrée (E) et la sortie (S) dans un graphe en 3D
 
 ![sex](https://user-images.githubusercontent.com/108684684/177189590-cd93288c-5ff6-4af3-9907-553e2480a319.PNG)
 
