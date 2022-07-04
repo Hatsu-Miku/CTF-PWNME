@@ -70,6 +70,6 @@ On détermine que :
         
         z = i//(k**2) même logique que y sans le (k-1)
         
-Et ça c'est pour tout k >= 2 (je suis fou)
+Et ça c'est pour tout k >= 2
 
 Enfin on obtient le flag ez : PWNME{n07_To0_d1ffiCul7}
