@@ -38,7 +38,7 @@ AAAAAAAAAAAAAAh du RSA tout le monde aime le RSA qui n'aime pas ça ?
 
 Sinon la faiblesse se trouve au niveau de n1 et n2 car ils ont été calculé avec une clé privée commune p
 
-Donc on a juste a calculé le pgcd entre n1 et n2 pour avoir p, diviser n1 et n2 par p pour avec q et s respectivement et ensuite c'est un RSA classique qu'on peut casser
+Donc on a juste a calculé le pgcd entre n1 et n2 pour avoir p, diviser n1 et n2 par p pour avoir q et s respectivement et ensuite c'est un RSA classique qu'on peut casser
 
 ```python
 from Crypto.Util.number import *
