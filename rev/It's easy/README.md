@@ -1,7 +1,7 @@
 # CTF-PWNME
 ## It's easy
 
-Source code : https://github.com/Hatsu-Miku/CTF-PWNME/raw/main/rev/ez
+Source code : https://github.com/Hatsu-Miku/CTF-PWNME/raw/main/rev/It's%20easy/ez
 
 Ce chall était vraiment très simple comme son nom l'indique xd faut juste un peu avoir l'oeil
 
