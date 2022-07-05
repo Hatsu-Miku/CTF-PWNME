@@ -1,7 +1,7 @@
 # CTF-PWNME
 ## Depycted
 
-Source code : https://github.com/Hatsu-Miku/CTF-PWNME/raw/main/rev/chall.pyc
+Source code : https://github.com/Hatsu-Miku/CTF-PWNME/raw/main/rev/depycted/chall.pyc
 
 Output :
 
