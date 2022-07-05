@@ -1,7 +1,7 @@
 # CTF-PWNME 2022
 Gros GG à Njörd qui a tout explosé en peu de temps un vrai crack
 
-Sinon le CTF était bien sympa pour une première de l'école 2600 c'est une réussite le prochain ctf peut être top 1
+Le CTF était bien sympa pour une première de l'école 2600 c'est une réussite niveau organisation et challenge
 
 ## Write Up
 
@@ -36,3 +36,5 @@ Sinon le CTF était bien sympa pour une première de l'école 2600 c'est une ré
 ![classement](https://user-images.githubusercontent.com/108684684/177328957-cdde6664-8a9a-4749-aa7b-8b4e8aac61aa.PNG)
 
 Franchement je suis bien classé je trouve même si j'aurais pu faire bien mieux mais bon je préfère rompish XDDDDDDDDDd
+
+Le prochain ctf peut être top 1
