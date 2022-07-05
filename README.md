@@ -1,4 +1,4 @@
-# CTF-PWNME
+# CTF-PWNME 2022
 Gros GG à Njörd qui a tout explosé en peu de temps un vrai crack
 
 Sinon le CTF était bien sympa pour une première de l'école 2600 c'est une réussite le prochain ctf peut être top 1
